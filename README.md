@@ -112,5 +112,5 @@ FastAPI · Streamlit · Docker · GitHub Actions · Qdrant Cloud
 
 ## Connect
 
-[LinkedIn](linkedin.com/in/amnurudeen) · 
+[LinkedIn](https://linkedin.com/in/amnurudeen) · 
 [Email](mailto:nurudeen.aminu41@gmail.comL)
